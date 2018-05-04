@@ -1,5 +1,5 @@
 # Use-of-Tone-Function
-
+    
 int buzzer=7;
 void setup()
 {
